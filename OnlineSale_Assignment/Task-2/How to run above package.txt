@@ -1,0 +1,8 @@
+The following step to run the project i.e task -2  are as follow ;
+
+-> Download my code in your local computer;
+-> open/import the project in your Sts, Intelliji etc;
+-> go to src of the project;
+-> open mohammad package/folder/directory;
+-> and open the Main class and run the program;
+-> you will able to see the output in the console easily;
